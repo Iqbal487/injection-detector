@@ -1,0 +1,8 @@
+INSERT INTO `user` (`user_id`, `user_name`, `pass_word`, `Cell_no`, `address`, `status`) VALUES (NULL, 'MD ey', '8898933', '017999002234', 'kh', 'ACTIVE');
+INSERT INTO `user` (`user_id`, `user_name`, `pass_word`, `Cell_no`, `address`, `status`) VALUES (NULL, 'MD se', '8898933', '017999002234', 'kh', 'ACTIVE');
+INSERT INTO `user` (`user_id`, `user_name`, `pass_word`, `Cell_no`, `address`, `status`) VALUES (NULL, 'MD tey', '8898933', '017999002234', 'kh', 'ACTIVE');
+INSERT INTO `user` (`user_id`, `user_name`, `pass_word`, `Cell_no`, `address`, `status`) VALUES (NULL, 'MD wewy', '8898933', '017999002234', 'kh', 'ACTIVE')
+INSERT INTO `user` (`user_id`, `user_name`, `pass_word`, `Cell_no`, `address`, `status`) VALUES (NULL, 'MD eew', '8898933', '017999002234', 'kh', 'ACTIVE');
+INSERT INTO `user` (`user_id`, `user_name`, `pass_word`, `Cell_no`, `address`, `status`) VALUES (NULL, 'MD eewey', '8898933', '017999002234', 'kh', 'ACTIVE');
+INSERT INTO `user` (`user_id`, `user_name`, `pass_word`, `Cell_no`, `address`, `status`) VALUES (NULL, 'MD yewe', '8898933', '017999002234', 'kh', 'ACTIVE');
+INSERT INTO `user` (`user_id`, `user_name`, `pass_word`, `Cell_no`, `address`, `status`) VALUES (NULL, 'MD eewe', '8898933', '017999002234', 'kh', 'ACTIVE');
